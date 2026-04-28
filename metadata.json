@@ -1,0 +1,6 @@
+{
+  "name": "NEIS_lunch_cal",
+  "description": "NEIS API를 활용한 초등학생 맞춤 실시간 학교 급식 칼로리 계산기",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
